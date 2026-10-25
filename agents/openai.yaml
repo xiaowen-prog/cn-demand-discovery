@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文细分需求挖掘"
+  short_description: "为一人或小团队铺开二三十个中国市场细分需求，排序、卡位检查并设计低成本验证"
+  default_prompt: "使用 $cn-demand-discovery 帮我找一批适合一人团队的细分产品需求，先广撒网再排序，标出机会、卡点和证据。"
